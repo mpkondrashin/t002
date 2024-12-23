@@ -1,0 +1,4 @@
+analyzer:
+    address: https://1.2.3.4
+    api_key: 12341234-1234-1234-1234-123412341234
+engine: Analyzer
